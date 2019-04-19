@@ -2,7 +2,7 @@
 
 *Blog Scraper grabs the latest Gizmodo articles where you can save and keep notes on them*
 
-![](assets/images/demo.gif)
+![](public/assets/images/demo.gif)
 
 ## Demo
 
