@@ -6,7 +6,7 @@
 
 ## Demo
 
-This app has been deployed using Heroku in conjunction with mongolab. Access it [here](https://limitless-lake-82713.herokuapp.com/)
+This app has been deployed using Heroku in conjunction with mongolab. Access it [here](https://blog-scraper-2019.herokuapp.com/)
 
 ## Instructions
 
